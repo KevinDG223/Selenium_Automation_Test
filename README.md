@@ -1,4 +1,5 @@
 Hi, There 👋
+
 📋 Project Overview
 
 The goal of this project is to automate a full purchase flow in an online store using test data from a JSON file.

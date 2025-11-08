@@ -5,29 +5,29 @@ Hi, There 👋
 The goal of this project is to automate a full purchase flow in an online store using test data from a JSON file.
 The automated test performs the following actions:
 
-Opens the e-commerce website.
+*Opens the e-commerce website.
 
-Logs in using valid credentials.
+*Logs in using valid credentials.
 
-Navigates through product categories.
+*Navigates through product categories.
 
-Adds two products (T-shirt and Jeans) to the cart.
+*Adds two products (T-shirt and Jeans) to the cart.
 
-Proceeds to checkout and enters payment details.
+*Proceeds to checkout and enters payment details.
 
-Validates that the order is successfully placed.
+*Validates that the order is successfully placed.
 
 🎯 Project Objective
 
-The goal of this project is to demonstrate a scalable and maintainable automation framework capable of handling:
+*The goal of this project is to demonstrate a scalable and maintainable automation framework capable of handling:
 
-Dynamic test data
+*Dynamic test data
 
-Multiple browsers
+*Multiple browsers
 
-Modular and reusable page objects
+*Modular and reusable page objects
 
-Clear and readable test flows
+*Clear and readable test flows
 
 🚀 How It Works
 
@@ -46,12 +46,12 @@ Browser type (Edge or Chrome) can be specified via command-line parameters.
 
 ⚙️ Tech Stack
 
-Python
+*Python
 
-Selenium WebDriver
+*Selenium WebDriver
 
-Pytest
+*Pytest
 
-Page Object Model (POM)
+*Page Object Model (POM)
 
-JSON Data-Driven Testing
+*JSON Data-Driven Testing

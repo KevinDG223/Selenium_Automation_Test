@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "userEmail": "kevindemo25@yopmail.com",
+      "userPassword": "Automatizacion25",
+      "tshirtName": "Men Tshirt",
+      "jeansName": "Grunt Blue Slim Fit Jeans",
+      "cardName" : "Kevin",
+      "cardNumber" : "1234567890123456",
+      "cardCvc" : "333",
+      "cardMonth" : "11",
+      "cardYear" : "2030"
+    },
+    {
+      "userEmail": "kevindemo25@yopmail.com",
+      "userPassword": "Automatizacion25",
+      "tshirtName": "Green Side Placket Detail T-Shirt",
+      "jeansName": "Regular Fit Straight Jeans",
+      "cardName" : "John",
+      "cardNumber" : "1010101010101010",
+      "cardCvc" : "321",
+      "cardMonth" : "10",
+      "cardYear" : "2027"
+    }
+  ]
+}

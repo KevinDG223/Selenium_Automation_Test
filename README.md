@@ -61,3 +61,8 @@ Browser type (Edge or Chrome) can be specified via command-line parameters.
 *Page Object Model (POM)
 
 *JSON Data-Driven Testing
+
+
+https://github.com/user-attachments/assets/c71155b2-3680-4d6a-bfde-0b50c6791a77
+
+

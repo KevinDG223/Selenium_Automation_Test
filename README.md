@@ -34,6 +34,7 @@ The automated test performs the following actions:
 The test script (test_e2e.py) reads user credentials and product data from test_data.json.
 
 Each test case performs the following steps:
+
 1️⃣ Opens the browser and navigates to the e-commerce site.
 
 2️⃣ Logs in using credentials from the JSON file.

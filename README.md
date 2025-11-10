@@ -34,7 +34,7 @@ Continuous Integration: Jenkins
 
 Test Management: Excel (Test_Cases.xlsx)
 
-Browser: Google Chrome (via ChromeDriver)
+Browser: Microsoft Edge
 
 🚀 How It Works
 
@@ -56,18 +56,6 @@ Each test case performs the following steps:
 
 Browser type (Edge or Chrome) can be specified via command-line parameters.
 (Default: Edge)
-
-⚙️ Tech Stack
-
-*Python
-
-*Selenium WebDriver
-
-*Pytest
-
-*Page Object Model (POM)
-
-*JSON Data-Driven Testing
 
 [Test_Cases.xlsx](https://github.com/user-attachments/files/23448656/Test_Cases.xlsx)
 

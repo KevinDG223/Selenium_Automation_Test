@@ -62,6 +62,7 @@ Browser type (Edge or Chrome) can be specified via command-line parameters.
 
 *JSON Data-Driven Testing
 
+[Test_Cases.xlsx](https://github.com/user-attachments/files/23448656/Test_Cases.xlsx)
 
 https://github.com/user-attachments/assets/c71155b2-3680-4d6a-bfde-0b50c6791a77
 

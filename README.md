@@ -2,32 +2,39 @@ Hi, There 👋
 
 📋 Project Overview
 
-The goal of this project is to automate a full purchase flow in an online store using test data from a JSON file.
-The automated test performs the following actions:
+This project is an End-to-End (E2E) automated testing framework built with Selenium WebDriver, Pytest, and the Page Object Model (POM) design pattern.
+It automates the full purchase flow of an e-commerce demo site, including login, product selection, cart operations, and checkout, using data-driven testing from a JSON file.
 
-*Opens the e-commerce website.
-
-*Logs in using valid credentials.
-
-*Navigates through product categories.
-
-*Adds two products (T-shirt and Jeans) to the cart.
-
-*Proceeds to checkout and enters payment details.
-
-*Validates that the order is successfully placed.
+A Jenkins pipeline is integrated to execute the tests automatically, demonstrating Continuous Integration (CI) in a professional QA workflow.
 
 🎯 Project Objective
 
-*The goal of this project is to demonstrate a scalable and maintainable automation framework capable of handling:
+The goal of this project is to:
 
-*Dynamic test data
+Demonstrate advanced UI automation using Selenium and Python.
 
-*Multiple browsers
+Implement the Page Object Model for maintainable and scalable test code.
 
-*Modular and reusable page objects
+Apply data-driven testing for flexible input management.
 
-*Clear and readable test flows
+Showcase integration with Jenkins CI/CD for automated test execution.
+🧰 Tech Stack
+
+Language: Python
+
+Framework: Pytest
+
+Automation Tool: Selenium WebDriver
+
+Design Pattern: Page Object Model (POM)
+
+Data Source: JSON file (test_data.json)
+
+Continuous Integration: Jenkins
+
+Test Management: Excel (Test_Cases.xlsx)
+
+Browser: Google Chrome (via ChromeDriver)
 
 🚀 How It Works
 
